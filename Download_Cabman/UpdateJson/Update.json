@@ -1,0 +1,136 @@
+{
+  "Operation_Updates": [
+    {
+      "_Comentar": "обновление 4",
+      "_Version": "2.4",
+      "_DataUpdate": "2019-02-18T19:25:56.6362242+02:00",
+      "_Files": [
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "file.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "koop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "doop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "moop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "zkop.txt"
+        }
+      ],
+      "_Deletes": [
+        { "_Path_Local": "file.txt" },
+        { "_Path_Local": "goom.txt" },
+        { "_Path_Local": "good\\file.txt" },
+        { "_Path_Local": "voop.txt" }
+      ]
+    },
+    {
+      "_Comentar": "обновление 3",
+      "_Version": "2.3",
+      "_DataUpdate": "2019-02-18T19:25:56.6362242+02:00",
+      "_Files": [
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "file.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "koop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "doop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "moop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "zkop.txt"
+        }
+      ],
+      "_Deletes": [
+        { "_Path_Local": "file.txt" },
+        { "_Path_Local": "goom.txt" },
+        { "_Path_Local": "good\\file.txt" },
+        { "_Path_Local": "voop.txt" }
+      ]
+    },
+    {
+      "_Comentar": "обновление 2",
+      "_Version": "2.2",
+      "_DataUpdate": "2019-02-18T19:25:56.6362242+02:00",
+      "_Files": [
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "file.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "koop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "doop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "moop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "zkop.txt"
+        }
+      ],
+      "_Deletes": [
+        { "_Path_Local": "file.txt" },
+        { "_Path_Local": "goom.txt" },
+        { "_Path_Local": "good\\file.txt" },
+        { "_Path_Local": "voop.txt" }
+      ]
+    },
+    {
+      "_Comentar": "обновление 1",
+      "_Version": "2.1",
+      "_DataUpdate": "2019-02-18T19:25:56.6362242+02:00",
+      "_Files": [
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "file.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "koop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "doop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "moop.txt"
+        },
+        {
+          "_URL_File": "https://www.dropbox.com/s/eibg0g82afrfa96/Option_text.txt?dl=1",
+          "_Path_Local": "zkop.txt"
+        }
+      ],
+      "_Deletes": [
+        { "_Path_Local": "file.txt" },
+        { "_Path_Local": "goom.txt" },
+        { "_Path_Local": "good\\file.txt" },
+        { "_Path_Local": "voop.txt" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Users\Noutbuk2021\Documents\BIT21\amadeusproject\Download_Cabman\Download_Cabman\obj\Debug\Download_Cabman.csprojAssemblyReference.cache
+C:\Users\Noutbuk2021\Documents\BIT21\amadeusproject\Download_Cabman\Download_Cabman\obj\Debug\MainWindow.g.cs
+C:\Users\Noutbuk2021\Documents\BIT21\amadeusproject\Download_Cabman\Download_Cabman\obj\Debug\App.g.cs
+C:\Users\Noutbuk2021\Documents\BIT21\amadeusproject\Download_Cabman\Download_Cabman\obj\Debug\Download_Cabman_MarkupCompile.cache
+C:\Users\Noutbuk2021\Documents\BIT21\amadeusproject\Download_Cabman\Download_Cabman\obj\Debug\Download_Cabman_MarkupCompile.lref
